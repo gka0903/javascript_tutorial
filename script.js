@@ -1,6 +1,6 @@
 const calculator = {
 	add: function(firstNumber, secondNuber){
-		return firstNumber + secondNuber;
+		console.log(firstNumber + secondNuber);
 	},
 	minus: function(firstNumber, secondNuber){
 		console.log(firstNumber - secondNuber);
